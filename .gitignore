@@ -1,0 +1,9 @@
+/.gradle/
+/.idea/
+/gradle/wrapper
+/gradlew
+/gradlew.bat
+/android/build
+/core/build/
+/lwjgl3/build/
+/android/libs/
